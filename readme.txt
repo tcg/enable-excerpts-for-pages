@@ -1,9 +1,3 @@
-WordPress plugin: Adds the 'Excerpt' field to the Page edit screen, just like the one available for Posts. Fully compatible with themes that utilize that feature.
-
-This Github repo is for official development. Unfortunately, still mixing some SVN with my Git, because SVN is what the official WordPress repo uses. 
-
-Below is the content from the WordPress repo `readme.txt` file for this plugin: 
-
 === Enable Excerpts for Pages ===
 Contributors: tommygeorge
 Tags: excerpt, excert, enable, page, pages, enable
